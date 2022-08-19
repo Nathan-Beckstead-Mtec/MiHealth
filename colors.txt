@@ -1,0 +1,6 @@
+white: ffffff
+gray: e0e0e0
+red: ce2020
+green: 8dc728
+black: 100f10
+browse menu: 000000
