@@ -5,6 +5,7 @@ body{
     padding: 0;
     border: 0;
     background: #e0e0e0;
+    font-size: 2vw;
 }
 
 
@@ -12,10 +13,10 @@ body{
 
 nav{
     background-color: #fff;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 60px;
-    padding-right: 30px;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 6vw;
+    padding-right: 3vw;
 }
 .nav-flex{
     display: flex;
@@ -28,7 +29,7 @@ nav{
     padding: 0px;
     margin-top: 0px;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 90%;
 }
 .logo.red{
     color: #ce2020;
@@ -45,12 +46,12 @@ nav{
 }
 .link {
     justify-content: space-between;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 2vw;
+    padding-right: 2vw;
     color: #100f10;
     text-decoration: none;
     margin-top: auto;
-    font-size: 14px;
+    font-size: 0.6em;
 }
 
 
@@ -59,7 +60,7 @@ nav{
 .content{
     background: #e0e0e0;
     display: flex;
-    padding-top: 60px;
+    padding-top: 6vw;
     padding-bottom: 80px;
 }
 
@@ -67,22 +68,23 @@ nav{
 
 .textbox{
     justify-content: flex-start;
-    width: 30%;
-    padding-left: 60px;
+    width: 25%;
+    padding-left: 6vw;
     padding-right: auto;
 }
 .textbox>h1 {
     margin: 0;
-    font-size: 50px;
+    font-size: 2em;
     word-wrap: normal;
     font-weight: bolder;
 }
 .textbox>p{
-    font-size: 18px;
+    font-size: 0.7em;
 }
 .textbox>h3{
-    font-size: 16px;
+    font-size: 0.6em;
     font-weight:600;
+    margin-top: 2em;
 }
 
 
@@ -93,8 +95,8 @@ nav{
     max-width: 70%;
     display: flex;
     flex-wrap: nowrap;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 5vw;
+    padding-right: 4vw;
     
 
 }
@@ -116,7 +118,7 @@ nav{
     position: absolute;
     bottom: 0px;
     right: 0px;
-    font-size: 11px;
+    font-size: 0.5em;
     font-weight: bolder;
 }
 .pic-white{
